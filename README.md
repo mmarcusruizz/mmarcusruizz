@@ -2,10 +2,8 @@
 #My name is Marco, i'm an Product Designer based in Concepción, Chile.
 #I really like research, my favourite areas are biomaterials and user experience design <3 
 
-´´´HTML
-<a href="https://www.linkedin.com/in/marcoruizd/"> 
 
-´´´
+*[Perfil de linkedin](https://www.linkedin.com/in/marcoruizd/)*
 
 <!--
 **mmarcusruizz/mmarcusruizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
