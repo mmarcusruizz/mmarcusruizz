@@ -3,7 +3,7 @@
 #I really like research, my favourite areas are biomaterials and user experience design <3 
 
 
-*[Perfil de linkedin](https://www.linkedin.com/in/marcoruizd/)*
+
 
 <!--
 **mmarcusruizz/mmarcusruizz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
