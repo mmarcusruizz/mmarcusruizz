@@ -1,6 +1,7 @@
-## Hi everyone 👋
-#My name is Marco, i'm an Product Designer based in Concepción, Chile.
-#I really like research, my favourite areas are biomaterials and user experience design <3 
+# Hi everyone 👋
+# My name is Marco, i'm an Product Designer based in Concepción, Chile.
+# I'm into biomaterials R&D and also User Experience Design <3  UX/UI
+# Front End Developer learning
 
 
 
