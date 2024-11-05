@@ -1,7 +1,8 @@
 # Hi everyone 👋
 - ⚡ My name is Marco, i'm an Product Designer based in Concepción, Chile.
 - 🌱 I'm into biomaterials R&D and also User Experience Design <3  UX/UI
-- 😄Front End Developer learning
+- 😄 Front End Developer learning
+- 📫 Reach me at marco.ruiz.di@gmail.com
 
 
 
